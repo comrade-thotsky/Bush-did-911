@@ -1,0 +1,4 @@
+C:\Users\1662978\Docs\CLion-2019.2.2.win\bin\cmake\win\bin\cmake.exe -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - MinGW Makefiles" C:\Derivative-Rain\Bush-did-911
+-- Configuring done
+-- Generating done
+-- Build files have been written to: C:/Derivative-Rain/Bush-did-911/cmake-build-debug
