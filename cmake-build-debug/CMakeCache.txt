@@ -256,6 +256,18 @@ Project_BINARY_DIR:STATIC=C:/Derivative-Rain/Bush-did-911/cmake-build-debug
 //Value Computed by CMake
 Project_SOURCE_DIR:STATIC=C:/Derivative-Rain/Bush-did-911
 
+//Value Computed by CMake
+b_BINARY_DIR:STATIC=C:/Derivative-Rain/Bush-did-911/cmake-build-debug
+
+//Value Computed by CMake
+b_SOURCE_DIR:STATIC=C:/Derivative-Rain/Bush-did-911
+
+//Value Computed by CMake
+bruh_BINARY_DIR:STATIC=C:/Derivative-Rain/Bush-did-911/cmake-build-debug
+
+//Value Computed by CMake
+bruh_SOURCE_DIR:STATIC=C:/Derivative-Rain/Bush-did-911
+
 
 ########################
 # INTERNAL cache entries

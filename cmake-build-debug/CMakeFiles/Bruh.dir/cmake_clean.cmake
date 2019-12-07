@@ -1,12 +1,12 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/Bruh.dir/bruh.c.obj"
-  "Bruh.pdb"
-  "Bruh.exe"
-  "Bruh.exe.manifest"
-  "libBruh.dll.a"
+  "CMakeFiles/bruh.dir/bruh.c.obj"
+  "bruh.pdb"
+  "bruh.exe"
+  "bruh.exe.manifest"
+  "libbruh.dll.a"
 )
 
 # Per-language clean rules from dependency scanning.
 foreach(lang C)
-  include(CMakeFiles/Bruh.dir/cmake_clean_${lang}.cmake OPTIONAL)
+  include(CMakeFiles/bruh.dir/cmake_clean_${lang}.cmake OPTIONAL)
 endforeach()
